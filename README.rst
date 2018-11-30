@@ -1,6 +1,7 @@
 ALTERNATIVE BACKEND
 ===================
 
+App purpose's to serve backend service for Alternative Longboards company.
 
 How to setup
 ------------
@@ -12,4 +13,6 @@ Activate venv env:
 	source .venv/bin/activate
 
 Install packages
-	pip install -r requirements.txt 
+	pip install -r requirements.txt
+
+
