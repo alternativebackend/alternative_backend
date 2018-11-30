@@ -1,2 +1,11 @@
 # directory for project venv
 .venv
+
+# develop database
+db.sqlite3
+
+#cache
+alternative_backend/alternative_backend/__pycache__
+
+#some weird shit
+.idea
